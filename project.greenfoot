@@ -2,7 +2,6 @@
 class.Hippo.image=hippo.png
 class.MyWorld.image=space.jpg
 class.Rocket.image=rocket.png
-class.tren.image=download\ (16).jpeg
 dependency1.from=MyWorld
 dependency1.to=Rocket
 dependency1.type=UsesDependency
